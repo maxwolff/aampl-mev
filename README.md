@@ -8,6 +8,7 @@ Uses a local anvil rpc forked from mainnet to deploy the view contract and read 
 ## Usage
 
 install [forge](https://book.getfoundry.sh/getting-started/installation)
+fill out .env.example, rename to .env
 
 in root
 
