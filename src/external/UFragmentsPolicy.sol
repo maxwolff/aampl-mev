@@ -1,8 +1,7 @@
 pragma solidity ^0.8.6;
 
-import "./_external/SafeMath.sol";
-import "./_external/Ownable.sol";
-
+import "./lib/SafeMath.sol";
+import "./lib/Ownable.sol";
 import "./lib/SafeMathInt.sol";
 import "./lib/UInt256Lib.sol";
 
